@@ -13,7 +13,4 @@
 | Руководитель проекта | Семён Попов | Semen.P@inbox.ru |
 | Инженер по качеству | Кузя Павлов | Kuzya.Pavlov@email.com |
 | DevOps инженер | Кирилл Нектаров | Dima.Nek@gmail.com |
-4.6.0
-2025-10-31 13:04:03
-support@gitflic.ru
-Контакты
+
